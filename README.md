@@ -15,5 +15,11 @@ This application simulates the movement of a toy robot on a square tabletop.
 ### Running the Project
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/ChhayaPatil12/RobotStimulator.git
+   git clone https://github.com/<YourUsername>/<YourRepository>.git
+2. Open the project in Visual Studio 2022.
+
+3. Build the solution.
+
+4. Run the application.
