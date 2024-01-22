@@ -23,3 +23,11 @@ This application simulates the movement of a toy robot on a square tabletop.
 3. Build the solution.
 
 4. Run the application.
+   
+### Input Commands
+- Commands can be provided in a file or from standard input.
+- Example Input File (commands.txt)
+ - `PLACE 0,0,NORTH`
+ - `MOVE`
+ - `REPORT`
+
