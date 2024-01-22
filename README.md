@@ -30,4 +30,34 @@ This application simulates the movement of a toy robot on a square tabletop.
  - `PLACE 0,0,NORTH`
  - `MOVE`
  - `REPORT`
+   
+### Running with Input File
+- ToyRobotSimulation.exe < commands.txt
+
+### Constraints
+- The toy robot must not fall off the table during movement.
+- Any move that would cause the robot to fall is ignored.
+
+### Development
+- Developed in C# .NET 6 using Visual Studio 2022.
+  
+### Test Data
+### Example Command
+
+- **Input:**
+ 
+  PLACE 0,0,NORTH
+
+  MOVE
+
+  REPORT
+
+
+- **Output:**
+  
+  0,1,NORTH
+
+
+
+
 
